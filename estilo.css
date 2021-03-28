@@ -1,0 +1,35 @@
+.fundo_painel{
+  background-color: #e0e0df;
+}
+
+.espacamento {
+    color: rgb(0, 0, 0);
+    width:100px;
+    position:relative;
+    right: -50px;;
+      }
+     .bordas {
+      display: inline-block;
+      width: 300px;
+      height: 500px;
+      margin: 30px;}
+      .fundinho1{
+        background-color: #ffffff;
+      }
+     
+      .fundinho2{
+        background-color: #444444;
+      }
+    
+      .fundinho3{
+        background-color: #eeeeee;
+      }
+      .carousel-control-prev-icon, .carousel-control-next-icon {
+        height: 100px;
+        width: 100px;
+        outline: black;
+        background-color: rgba(0, 0, 0, 0.3);
+        background-size: 100%, 100%;
+        border-radius: 50%;
+        border: 1px solid black;
+    }
