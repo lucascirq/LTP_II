@@ -11,7 +11,7 @@
      .bordas {
       display: inline-block;
       width: 300px;
-      height: 550px;
+      height: 500px;
       margin: 30px;
     }
       .fundinho1{
@@ -37,13 +37,25 @@
       .btnAzul{
         color:rgb(0, 140, 255)
       }
+      .bpainel1{
+        font-style: italic;
+        color:dodgerblue;
+      }
       .painel1{
         color:dodgerblue;
         font-family: 'times new roman';
       }
+      .bpainel2{
+        font-style: normal;
+        color:rgb(25, 0, 85);
+      }
       .painel2{
         color:rgb(25, 0, 85);
         font-family:'Georgia';
+      }
+      .bpainel3{
+        font-style: oblique;
+        color:rgb(124, 124, 124) ;
       }
       .painel3{
         color:rgb(124, 124, 124);
