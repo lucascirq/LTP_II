@@ -3,12 +3,11 @@
   height:auto;
 }
 
-.espacamento {
+.respacamento {
     color: rgb(0, 0, 0);
     width:100px;
     position:relative;
     right: -50px;;
-    height:auto;
       }
      .bordas {
       display: inline-block;
