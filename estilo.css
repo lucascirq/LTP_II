@@ -1,4 +1,6 @@
-
+.fundo_painel{
+  background-color: darkgray;
+}
 .espacamento {
     color: rgb(0, 0, 0);
     width:100px;
