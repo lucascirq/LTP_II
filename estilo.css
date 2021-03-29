@@ -1,7 +1,7 @@
 .fundo_painel{
   background-color: #e0e0df;
-  width: auto;
-  height: auto;
+  width:max-content;
+  height:max-content;
 }
 
 .espacamento {
