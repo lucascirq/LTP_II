@@ -37,3 +37,15 @@
       .btnAzul{
         color:rgb(0, 140, 255)
       }
+      .painel1{
+        color:dodgerblue;
+        font-family: 'Courier New';
+      }
+      .painel2{
+        color:rgb(25, 0, 85);
+        font-family:Georgia;
+      }
+      .painel3{
+        color:rgb(124, 124, 124);
+        font-family:serif;
+      }
